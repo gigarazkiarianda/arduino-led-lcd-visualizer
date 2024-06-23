@@ -61,7 +61,7 @@ Daftar referensi yang digunakan atau bermanfaat untuk memahami proyek ini:
 > none
 
 ## Author
-  ** Programmer ** : Giga Razki Arianda
+  **Programmer**  : Giga Razki Arianda
 
    `template by : Giga Razki Arianda`
    

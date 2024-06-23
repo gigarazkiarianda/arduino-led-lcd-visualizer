@@ -27,7 +27,7 @@ Langkah-langkah untuk menginstal dan menjalankan proyek secara lokal:
 git clone https://github.com/gigarazkiarianda/arduino-led-lcd-visualizer.git
 
 # Masuk ke direktori proyek
-cd repo
+cd arduino-led-lcd-visualizer
 ```
 
 

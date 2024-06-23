@@ -40,16 +40,16 @@ Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
 * setelah itu `upload`
 
 ## Struktur Folder
-```bash
-arduino-led-lcd-visualizer/
-├── arduino-led-lcd-visualizer.ino
-```
+
+![VOvB2W8n44JtVOeYcrd5CumWtYDCTx2n9u5yN2ZUtKRTQYrVFOfQ-qXjpDremKco5i6Uj21NOsb8ZQUM6aqusiRnfdqcqxiq-XhXjnBm87WMdDK4nu-8VfMnNTvDTlvluU0uq9DMAUmVNm00](https://github.com/gigarazkiarianda/arduino-led-lcd-visualizer/assets/75737741/3446fecf-5fbc-42c8-b40f-5c9247cad3b9)
+
 
 ## Highlight
 > None
 
 ## System Flow
-> None
+![vP2nJiCm48PtFyMDYSHGEZ2GWG95g58fI4a7ncjp9ISxTkIp1NrxY1jLD1KIp6p9tN_VBtyp2UX3R8rA7qfTBomBes51OLZUpw562yk7UQ7KUyE682ifn2u75iXUIN85071-TddrCIqEkziGFNISC22qmJTaU5vNB-kgK6JhWRjo-R5ZwTnPnHrvuKQZ1ODxz7tBK51IW6tquj8Giia5JF](https://github.com/gigarazkiarianda/arduino-led-lcd-visualizer/assets/75737741/e8f3c8a5-7be6-4723-b46a-587105583644)
+
 
 ## Issue
 

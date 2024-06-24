@@ -15,6 +15,12 @@
 ## Introduction
 `LED - LCD Visualizer` adalah proyek yang menggunakan Arduino untuk menampilkan teks bergulir pada layar LiquidCrystal sambil memberikan efek visual dengan LED yang berkedip. Proyek ini tidak hanya menunjukkan kemampuan dasar dalam mengendalikan komponen elektronik, tetapi juga memperlihatkan potensi untuk dikembangkan dengan integrasi sensor atau input tambahan untuk aplikasi yang lebih kompleks.
 
+
+## Fitur 
+ * Tampilan Karakter-per-Karakter pada LCD
+ * Efek Strobe LED
+ * Pesan Bergulir
+   
 ## Tech Stack
 Framework, Library, Database, Tools, etc
 
